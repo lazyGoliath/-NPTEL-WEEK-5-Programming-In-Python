@@ -1,5 +1,9 @@
-# NPTEL-Programming-in-Python-2024
+# NPTEL-WEEK-5-Programming-in-Python-2024
 Find all nptel course Programming in python related resources and solutions here.
+
+## WEEK 5
+  - [Quiz Solution](https://github.com/lazyGoliath/NPTEL-WEEK-2-Programming-In-Python/tree/main/Week2/quiz.md)
+  - [Assignment Solution](https://github.com/lazyGoliath/NPTEL-WEEK-2-Programming-In-Python/tree/main/Week2/assignment.md)
 
 ## Resources available :
 
@@ -9,3 +13,4 @@ Find all nptel course Programming in python related resources and solutions here
 - [NPTEL WEEK 3](https://github.com/lazyGoliath/NPTEL-WEEK-3-Programming-In-Python)
 - [NPTEL WEEK 4](https://github.com/lazyGoliath/NPTEL-WEEK-4-Programming-In-Python)
 - [NPTEL WEEK 6](https://github.com/lazyGoliath/NPTEL-WEEK-6-Programming-In-Python)
+- [NPTEL WEEK 7](https://github.com/lazyGoliath/NPTEL-WEEK-6-Programming-In-Python)
