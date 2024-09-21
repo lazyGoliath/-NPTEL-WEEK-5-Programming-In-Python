@@ -3,7 +3,7 @@ Find all nptel course Programming in python related resources and solutions here
 
 ## WEEK 5
 
-  - [Assignment Solution](https://github.com/lazyGoliath/NPTEL-WEEK-2-Programming-In-Python/tree/main/Week5/assignment.md)
+  - [Assignment Solution](Week5/assignment.md)
 
 ## Resources available :
 
