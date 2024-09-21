@@ -1,4 +1,4 @@
-# Week 4 Programming Assignment
+# Week 5 Programming Assignment
 
 - Write three Python functions as specified below. Paste the text for all three functions together into the submission window. Your function will be called automatically with various inputs and should return values as specified. Do not write commands to read any input or print any output.
 - You may define additional auxiliary functions as needed.
